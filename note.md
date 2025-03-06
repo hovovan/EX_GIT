@@ -2,6 +2,8 @@
 + Repository (repo)
 + Branch (nhánh)
 + conflict (xung đột)
++ local
++ remote
 
 # Commands
 + git init
